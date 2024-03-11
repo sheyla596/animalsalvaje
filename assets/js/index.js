@@ -1,8 +1,8 @@
-import { Leon } from "./clases/leon.js";
-import { Lobo } from "./clases/lobo.js";
-import { Oso } from "./clases/oso.js";
-import { Serpiente } from "./clases/serpiente.js";
-import { Aguila } from "./clases/aguila.js";
+import { Leon } from "./animales/leon.js";
+import { Lobo } from "./animales/lobo.js";
+import { Oso } from "./animales/lobo.js";
+import { Serpiente } from "./animales/serpiente.js";
+import { Aguila } from "./animales/aguila.js";
 
 const AnimalesDIV = document.querySelector('#Animales');
 const selectorAnimal = document.querySelector('#animal');
